@@ -1,4 +1,3 @@
-haruka/config.py
 *.pyc
 .idea/
 logfile
