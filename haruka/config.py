@@ -20,7 +20,7 @@ class Config(object):
     LOAD = []
     NO_LOAD = ['translation', 'sed']
     WEBHOOK = False
-    URL = None
+    URL = https://mianewexample.herokuapp.com/
 
     # OPTIONAL
     SUDO_USERS = [658571574]  # List of id's (not usernames) for users which have sudo access to the bot.
